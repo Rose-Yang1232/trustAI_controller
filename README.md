@@ -1,2 +1,2 @@
-# trustAI_simulink
-this is the simulink of trustAI group
+# trustAI_controller
+this repo contains the extracted .tgz file 
